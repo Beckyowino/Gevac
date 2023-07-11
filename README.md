@@ -1,2 +1,2 @@
 # Gevac
-An infant immunization system with buttons for  dashboard, profile, child info and settings. It also has option for logging out.
+An infant immunization system with buttons for  dashboard, profile, child info and settings. It also has option for logging out.It also offers services such as adding child records, making schedules, managing appointments and generating reports.
